@@ -2,7 +2,6 @@
 <img src="https://cdn-raw.modrinth.com/data/JecgZ0Zh/images/a3f83b9070af8c1c6b80cb7aec0018c2d2e905bd.png" alt="Create Extended Modpack banner"></a>
 
 ---
-:-:
 
 <strong>
 <a href="https://discord.gg/Tb7WVpdEsU">Discord</a> • 
