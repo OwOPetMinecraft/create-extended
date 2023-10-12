@@ -5,7 +5,7 @@
 <p align="center">
 <strong>
 <a href="https://discord.gg/Tb7WVpdEsU">Discord</a> • 
-<a href="https://github.com/OwOPetMinecraft/create-extended">Github.</a> • 
+<a href="https://github.com/OwOPetMinecraft/create-extended">Github</a> • 
 <a href="">soon...</a>
 </strong>
 <p/>
