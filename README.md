@@ -2,13 +2,13 @@
 <img src="https://cdn-raw.modrinth.com/data/JecgZ0Zh/images/a3f83b9070af8c1c6b80cb7aec0018c2d2e905bd.png" alt="Create Extended Modpack banner"></a>
 
 ---
-
+<p align="center">
 <strong>
 <a href="https://discord.gg/Tb7WVpdEsU">Discord</a> • 
 <a href="https://github.com/OwOPetMinecraft/create-extended">Github.</a> • 
 <a href="">soon...</a>
 </strong>
-
+<p/>
 <p></p>
 <p>"Create Extended" is a Minecraft modpack that takes the innovative "Create" mod to new heights by incorporating an extensive array of optimization and Create addons. This meticulously curated modpack is designed to elevate your gameplay experience, offering an enriched sandbox for creativity and engineering prowess.
 
