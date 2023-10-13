@@ -1,31 +1,28 @@
 <a title="Discord" href="https://discord.gg/Tb7WVpdEsU">
-<img src="https://cdn-raw.modrinth.com/data/JecgZ0Zh/images/a3f83b9070af8c1c6b80cb7aec0018c2d2e905bd.png" alt="Create Extended Modpack banner"></a>
-
----
-<p align="center">
-<strong>
-<a href="https://discord.gg/Tb7WVpdEsU">Discord</a> • 
-<a href="https://github.com/OwOPetMinecraft/create-extended">Github</a> • 
-<a href="">soon...</a>
-</strong>
-<p/>
+<img src="https://cdn-raw.modrinth.com/data/JecgZ0Zh/images/a3f83b9070af8c1c6b80cb7aec0018c2d2e905bd.png" alt="Create Extended Modpack banner">
+</a>
 <p></p>
-<p>"Create Extended" is a Minecraft modpack that takes the innovative "Create" mod to new heights by incorporating an extensive array of optimization and Create addons. This meticulously curated modpack is designed to elevate your gameplay experience, offering an enriched sandbox for creativity and engineering prowess.
+<p align ="center">
+<strong>
+<a href="https://discord.gg/Tb7WVpdEsU"><font>Discord</font></a><font> •</font> 
+<a href="https://github.com/OwOPetMinecraft/create-extended"><font>Github</font></a><font> •</font> 
+<a href="https://github.com/OwOPetMinecraft/create-extended/issues"><font>Issues</font></a>
+</p>
+</strong>
+</center>      
+<p></p>
 
-With a multitude of optimization mods, "Create Extended" ensures that your gameplay remains smooth and lag-free, even as you delve into complex contraptions and massive automated systems. It optimizes resource management, enhances performance, and guarantees a seamless experience as you push the boundaries of your creations.
+<span><strong><font size="4">What is Create Extended?</font></strong></span>
 
-Moreover, "Create Extended" introduces a wealth of Create addons, each contributing unique components, tools, and mechanics to the game. Whether you're looking to streamline your automation projects, add new aesthetically pleasing building blocks, or introduce advanced machinery, this modpack has you covered.
+<p>Create Extended is a Minecraft modpack that takes the innovative Create mod to new heights by incorporating an extensive array of optimization and Create addons. This meticulously curated modpack is designed to elevate your gameplay experience, offering an enriched sandbox for creativity and engineering prowess.
 
-Venture into the world of "Create Extended" and explore a limitless realm of possibilities. Engineer intricate machines, construct elaborate contraptions, and transform your Minecraft world into a hub of innovation and efficiency. Unleash your creativity and technological prowess with "Create Extended" – where the only limit is your imagination.
+With a multitude of optimization mods, Create Extended ensures that your gameplay remains smooth and lag-free, even as you delve into complex contraptions and massive automated systems. It optimizes resource management, enhances performance, and guarantees a seamless experience as you push the boundaries of your creations.
+
+Moreover, Create Extended introduces a wealth of Create addons, each contributing unique components, tools, and mechanics to the game. Whether you're looking to streamline your automation projects, add new aesthetically pleasing building blocks, or introduce advanced machinery, this modpack has you covered.
+
+Venture into the world of Create Extended and explore a limitless realm of possibilities. Engineer intricate machines, construct elaborate contraptions, and transform your Minecraft world into a hub of innovation and efficiency. Unleash your creativity and technological prowess with Create Extended – where the only limit is your imagination.
 </p>
                                                              
-
-
-
-
-
-
-
 <details>
 <summary>Create Mods</summary>
 
@@ -36,4 +33,25 @@ Venture into the world of "Create Extended" and explore a limitless realm of pos
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
 - [Create Big Cannons](https://modrinth.com/mod/create-big-cannons)
 
+</details>
+
+
+
+
+---
+<span><strong><font size="4">Terra worldgenerator</font></strong></span>
+
+The world generation in Create Extended has been taken to new heights with the addition of the Terra mod. This modification revolutionizes the way you experience Minecraft's terrain, promising an exceptional and immersive world for your exploration.
+<center>
+<img src="https://cdn-raw.modrinth.com/data/JecgZ0Zh/images/c57d138dd7c52dd645e4dca999034924c5b66e14.png"  width="1920"  alt="Terra worldgenerator screenshot">
+<p></p></center>
+
+
+
+<details>
+<summary>How to use it?</summary>
+
+When creating a world, click on "More World Options..." Then, press the button that says "World Type: Default" repeatedly until it looks like the image below. (Currently, the button is a bit buggy)
+
+<img src="https://cdn-raw.modrinth.com/data/JecgZ0Zh/images/a26b928930406bb75b85709fa7d88235a6072c30.png"  width="500"  alt="How to use the Terra worldgenerator">
 </details>
