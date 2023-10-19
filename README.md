@@ -8,6 +8,7 @@
 <a href="https://github.com/OwOPetMinecraft/create-extended"><font>Github</font></a><font> •</font> 
 <a href="https://github.com/OwOPetMinecraft/create-extended/issues"><font>Issues</font></a>
 </p>
+
 </strong>
 </center>      
 <p></p>
@@ -37,7 +38,6 @@ Venture into the world of Create Extended and explore a limitless realm of possi
 
 
 
-
 ---
 <span><strong><font size="4">Terra worldgenerator</font></strong></span>
 
@@ -55,3 +55,10 @@ When creating a world, click on "More World Options..." Then, press the button t
 
 <img src="https://cdn-raw.modrinth.com/data/JecgZ0Zh/images/a26b928930406bb75b85709fa7d88235a6072c30.png"  width="500"  alt="How to use the Terra worldgenerator">
 </details>
+
+
+
+---
+<span><strong><font size="4">Essential Mod</font></strong></span>
+
+The Essentials mod within the Create Extended modpack has transformed multiplayer gameplay into a seamless experience. One standout feature is the ability to effortlessly join a friend's world without the need to set up a dedicated server. This simplifies cooperative play, eliminating the hassle of server configurations and port forwarding.
