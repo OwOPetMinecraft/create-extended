@@ -1,13 +1,13 @@
-<a title="Discord" href="https://discord.gg/Tb7WVpdEsU">
-<img src="https://cdn-raw.modrinth.com/data/JecgZ0Zh/images/a3f83b9070af8c1c6b80cb7aec0018c2d2e905bd.png" alt="Create Extended Modpack banner">
+<a align="center" title="Discord" href="https://discord.gg/Tb7WVpdEsU">
+<img src="https://raw.githubusercontent.com/OwOPetMinecraft/create-extended/main/Banner.png"  width="768"  alt="Create Extended Modpack banner">
 </a>
+
 <p></p>
-<p align ="center">
-<strong>
-<a href="https://discord.gg/Tb7WVpdEsU"><font>Discord</font></a><font> •</font> 
-<a href="https://github.com/OwOPetMinecraft/create-extended"><font>Github</font></a><font> •</font> 
-<a href="https://github.com/OwOPetMinecraft/create-extended/issues"><font>Issues</font></a>
-</p>
+
+<span><strong><font size="5">Official Create Extended Modpack</font></strong></span>
+
+
+---
 
 </strong>
 </center>      
@@ -38,23 +38,7 @@ Venture into the world of Create Extended and explore a limitless realm of possi
 
 
 
----
-<span><strong><font size="4">Terra worldgenerator</font></strong></span>
 
-The world generation in Create Extended has been taken to new heights with the addition of the Terra mod. This modification revolutionizes the way you experience Minecraft's terrain, promising an exceptional and immersive world for your exploration.
-<center>
-<img src="https://cdn-raw.modrinth.com/data/JecgZ0Zh/images/c57d138dd7c52dd645e4dca999034924c5b66e14.png"  width="1920"  alt="Terra worldgenerator screenshot">
-<p></p></center>
-
-
-
-<details>
-<summary>How to use it?</summary>
-
-When creating a world, click on "More World Options..." Then, press the button that says "World Type: Default" repeatedly until it looks like the image below. (Currently, the button is a bit buggy)
-
-<img src="https://cdn-raw.modrinth.com/data/JecgZ0Zh/images/a26b928930406bb75b85709fa7d88235a6072c30.png"  width="500"  alt="How to use the Terra worldgenerator">
-</details>
 
 
 
@@ -62,3 +46,15 @@ When creating a world, click on "More World Options..." Then, press the button t
 <span><strong><font size="4">Essential Mod</font></strong></span>
 
 The Essentials mod within the Create Extended modpack has transformed multiplayer gameplay into a seamless experience. One standout feature is the ability to effortlessly join a friend's world without the need to set up a dedicated server. This simplifies cooperative play, eliminating the hassle of server configurations and port forwarding.
+
+
+
+<p></p>
+
+<center>
+<strong>
+<a href="https://discord.gg/Tb7WVpdEsU"><font>Discord</font></a><font> •</font> 
+<a href="https://github.com/OwOPetMinecraft/create-extended"><font>Github</font></a><font> •</font> 
+<a href="https://github.com/OwOPetMinecraft/create-extended/issues"><font>Issues</font></a>
+
+<p></p>
