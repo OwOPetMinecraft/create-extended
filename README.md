@@ -1,11 +1,13 @@
-<a align="center" title="Discord" href="https://discord.gg/Tb7WVpdEsU">
+<p align="center">
+<a title="Discord" href="https://discord.gg/Tb7WVpdEsU">
 <img src="https://raw.githubusercontent.com/OwOPetMinecraft/create-extended/main/Banner.png"  width="768"  alt="Create Extended Modpack banner">
 </a>
-
+</p>
 <p></p>
 
+<p align="center">
 <span><strong><font size="5">Official Create Extended Modpack</font></strong></span>
-
+</p>
 
 ---
 
@@ -51,10 +53,10 @@ The Essentials mod within the Create Extended modpack has transformed multiplaye
 
 <p></p>
 
-<center>
+<p align="center">
 <strong>
 <a href="https://discord.gg/Tb7WVpdEsU"><font>Discord</font></a><font> •</font> 
 <a href="https://github.com/OwOPetMinecraft/create-extended"><font>Github</font></a><font> •</font> 
 <a href="https://github.com/OwOPetMinecraft/create-extended/issues"><font>Issues</font></a>
-
+</p>
 <p></p>
